@@ -1,0 +1,6 @@
+pandas
+numpy
+numpy.matlib
+matplotlib
+matplotlib.pyplot
+mpl_toolkits.axes_grid1.inset_locator
