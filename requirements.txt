@@ -1,4 +1,4 @@
 pandas
 numpy
 matplotlib
-mpl_toolkits.axes_grid1.inset_locator
+mpl_toolkits
