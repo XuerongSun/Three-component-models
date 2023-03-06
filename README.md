@@ -6,3 +6,5 @@ In this study, we developed one SST-independent model and two SST-dependent thre
 The proposed ecological model, i.e., SST-dependent three-component models, will be at the centre of a new ocean-colour modelling framework, designed for investigating the response of phytoplankton to climate change, described in subsequent parts of this series of papers.
 
 The notebook can be run through a webpage, just click on the launch-binder image.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/XuerongSun/Three-component-models/HEAD)
